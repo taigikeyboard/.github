@@ -1,4 +1,6 @@
-## Hi there 👋
+## TaigiKeyboard 台語齒盤 
+
+Siá hōo lán ê Tâi-uân-uē.
 
 <!--
 
